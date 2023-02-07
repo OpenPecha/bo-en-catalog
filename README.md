@@ -10,5 +10,5 @@ The process should work as much as possible with identifiers:
 ### Methodology
 
 - augment the BDRC - VIAF linking through reconciliation (using OpenRefine)
-- leverage the BDRC - VIAF connection to list all English books marked as authored by Tibetan authors on Worldcat
+- leverage the BDRC - VIAF connection to list all English books marked as authored or translated by Tibetan persons on Worldcat
 - for each translation, list the BDRC work IDs of the corresponding Tibetan texts
